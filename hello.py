@@ -5,6 +5,8 @@
 
 import sys
 
+__version__ = "1.0.0"
+
 
 def greet(name: str) -> str:
     return f"你好，{name}！这是你在 git 里的第一个提交。"
